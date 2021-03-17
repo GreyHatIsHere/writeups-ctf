@@ -1,0 +1,5 @@
+"let's play a game. If you can tell me what number I am thinking of, I will give you the flag.
+What number am I thinking of?'"
+
+This challenge is based on a connection (via nc) to a bot. 
+This bot generates a random number to guess, between 100000000 and 999999999. So, taking a random value, I'll try to answer until the answer is true.
